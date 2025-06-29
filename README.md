@@ -1,4 +1,4 @@
-##                                                                                                                         Welcome to My Profile 🎓
+<h1 align="center">Welcome to My Profile 🎓"></h1>
 
 <!--
 **Sanula1/Sanula1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
